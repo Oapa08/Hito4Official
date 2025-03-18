@@ -1,0 +1,14 @@
+/* src/components/Footer.css */
+
+footer {
+    background-color: #dc3545; /* Color de fondo rojo Bootstrap */
+    color: #fff;               /* Texto blanco */
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
